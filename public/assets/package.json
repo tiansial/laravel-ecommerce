@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "gulp": "^3.8.7"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^1.0.0",
+    "gulp-livereload": "^2.1.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^0.7.3",
+    "gulp-uglify": "^0.3.1"
+  }
+}
